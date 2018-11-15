@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ValidationProviderAutoTooltips/Form1.cs) (VB: [Form1.vb](./VB/ValidationProviderAutoTooltips/Form1.vb))
+<!-- default file list end -->
 # How to make tool tips appear immediately after validation is failed
 
 
